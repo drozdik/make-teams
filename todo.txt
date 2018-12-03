@@ -1,0 +1,4 @@
+create team with alphanumeric name
+list teams
+delete team
+command line interface
