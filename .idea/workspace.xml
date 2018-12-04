@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d144a90a-bdb4-4ced-afc5-93e3b44e0311" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/make-teams_test.iml" afterPath="$PROJECT_DIR$/.idea/modules/make-teams_test.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -26,8 +24,8 @@
       <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+            <state relative-caret-position="288">
+              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -43,12 +41,99 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="29" column="67" lean-forward="true" selection-start-line="29" selection-start-column="67" selection-end-line="29" selection-end-column="67" />
+            <state relative-caret-position="0">
+              <caret line="143" column="43" lean-forward="false" selection-start-line="143" selection-start-column="43" selection-end-line="143" selection-end-column="43" />
+              <folding>
+                <marker date="1543960554436" expanded="true" signature="97976:98016" ph="..." />
+                <marker date="1543960554436" expanded="true" signature="97976:98033" ph="..." />
+                <marker date="1543960554436" expanded="true" signature="97976:98051" ph="..." />
+                <marker date="1543960554436" expanded="true" signature="97976:98064" ph="..." />
+                <marker date="1543960554436" expanded="true" signature="97976:98079" ph="..." />
+                <marker date="1543960554436" expanded="true" signature="98114:100290" ph="..." />
+                <marker date="1543960554436" expanded="true" signature="98127:100275" ph="..." />
+                <marker date="1543960554436" expanded="true" signature="98181:98476" ph="..." />
+                <marker date="1543960554436" expanded="true" signature="98200:98461" ph="..." />
+                <marker date="1543960554436" expanded="true" signature="98263:98441" ph="..." />
+                <marker date="1543960554436" expanded="true" signature="98303:98407" ph="..." />
+                <marker date="1543960554436" expanded="true" signature="98324:98385" ph="..." />
+                <marker date="1543960554436" expanded="true" signature="98526:98853" ph="..." />
+                <marker date="1543960554436" expanded="true" signature="98545:98838" ph="..." />
+                <marker date="1543960554436" expanded="true" signature="98640:98818" ph="..." />
+                <marker date="1543960554436" expanded="true" signature="98680:98784" ph="..." />
+                <marker date="1543960554436" expanded="true" signature="98701:98762" ph="..." />
+                <marker date="1543960554436" expanded="true" signature="98904:99169" ph="..." />
+                <marker date="1543960554436" expanded="true" signature="98923:99154" ph="..." />
+                <marker date="1543960554436" expanded="true" signature="98956:99134" ph="..." />
+                <marker date="1543960554436" expanded="true" signature="98996:99100" ph="..." />
+                <marker date="1543960554436" expanded="true" signature="99017:99078" ph="..." />
+                <marker date="1543960554436" expanded="true" signature="99212:99518" ph="..." />
+                <marker date="1543960554436" expanded="true" signature="99231:99503" ph="..." />
+                <marker date="1543960554436" expanded="true" signature="99305:99483" ph="..." />
+                <marker date="1543960554436" expanded="true" signature="99345:99449" ph="..." />
+                <marker date="1543960554436" expanded="true" signature="99366:99427" ph="..." />
+                <marker date="1543960554436" expanded="true" signature="99569:99882" ph="..." />
+                <marker date="1543960554436" expanded="true" signature="99588:99867" ph="..." />
+                <marker date="1543960554436" expanded="true" signature="99669:99847" ph="..." />
+                <marker date="1543960554436" expanded="true" signature="99709:99813" ph="..." />
+                <marker date="1543960554436" expanded="true" signature="99730:99791" ph="..." />
+                <marker date="1543960554436" expanded="true" signature="99934:100261" ph="..." />
+                <marker date="1543960554436" expanded="true" signature="99953:100246" ph="..." />
+                <marker date="1543960554436" expanded="true" signature="100048:100226" ph="..." />
+                <marker date="1543960554436" expanded="true" signature="100088:100192" ph="..." />
+                <marker date="1543960554436" expanded="true" signature="100109:100170" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="todo.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/todo.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="3" column="22" lean-forward="false" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Teams.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/maketeams/Teams.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#149#150#0" expanded="true" />
+                <element signature="e#195#196#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TeamsTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/maketeams/TeamsTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="18" column="15" lean-forward="true" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Assert.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/Assert.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15930">
+              <caret line="921" column="27" lean-forward="false" selection-start-line="921" selection-start-column="27" selection-end-line="921" selection-end-column="27" />
+              <folding>
+                <element signature="e#35031#35032#0" expanded="true" />
+                <element signature="e#35078#35079#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -66,8 +151,8 @@
       <file leaf-file-name="settings.gradle" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/settings.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="36">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -84,6 +169,14 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -266,8 +359,10 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="4631586469000" />
-        <entry key="$PROJECT_DIR$/build.gradle" value="562837339" />
+        <entry key="$PROJECT_DIR$" value="4631601316000" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="3963990115" />
+        <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="615277776" />
+        <entry key="$PROJECT_DIR$/settings.gradle" value="789837946" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -441,8 +536,14 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/teams.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Teams.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/test/java/maketeams/MakeTeamsCliAppTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/maketeams/MakeTeamsCliApp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/maketeams/Teams.java" />
+        <option value="$PROJECT_DIR$/src/test/java/maketeams/TeamsTest.java" />
       </list>
     </option>
   </component>
@@ -469,13 +570,59 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="make-teams" type="b2602c69:ProjectViewProjectNode" />
               <item name="make-teams" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="make-teams" type="b2602c69:ProjectViewProjectNode" />
+              <item name="make-teams" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="make-teams" type="b2602c69:ProjectViewProjectNode" />
+              <item name="make-teams" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="make-teams" type="b2602c69:ProjectViewProjectNode" />
+              <item name="make-teams" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="make-teams" type="b2602c69:ProjectViewProjectNode" />
+              <item name="make-teams" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="maketeams" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="make-teams" type="b2602c69:ProjectViewProjectNode" />
+              <item name="make-teams" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="make-teams" type="b2602c69:ProjectViewProjectNode" />
+              <item name="make-teams" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="make-teams" type="b2602c69:ProjectViewProjectNode" />
+              <item name="make-teams" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="maketeams" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -501,6 +648,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -512,6 +660,16 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="maketeams" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -525,7 +683,57 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.TeamsTest.shouldReturnEmptyListOfNamesIfNoTeamsExist">
+    <configuration name="MakeTeamsCliAppTest.shouldPrintWelcomeMessage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="maketeams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="make-teams_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="maketeams" />
+      <option name="MAIN_CLASS_NAME" value="maketeams.MakeTeamsCliAppTest" />
+      <option name="METHOD_NAME" value="shouldPrintWelcomeMessage" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="TeamsTest.shouldReturnEmptyListOfNamesIfNoTeamsExist" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="maketeams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="make-teams_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="maketeams" />
+      <option name="MAIN_CLASS_NAME" value="maketeams.TeamsTest" />
+      <option name="METHOD_NAME" value="shouldReturnEmptyListOfNamesIfNoTeamsExist" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -607,6 +815,16 @@
       <properties />
       <listeners />
     </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="JUnit.MakeTeamsCliAppTest.shouldPrintWelcomeMessage" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.TeamsTest.shouldReturnEmptyListOfNamesIfNoTeamsExist" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.TeamsTest.shouldReturnEmptyListOfNamesIfNoTeamsExist" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.MakeTeamsCliAppTest.shouldPrintWelcomeMessage" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -622,22 +840,82 @@
       <option name="presentableId" value="Default" />
       <updated>1543861188039</updated>
     </task>
+    <task id="LOCAL-00001" summary="Fix mockito-all usage">
+      <created>1543960552736</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1543960552736</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Fix mockito-all usage">
+      <created>1543960572162</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1543960572162</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="MakeTeamsCliAppTest_shouldPrintWelcomeMessage - 2018.12.03 at 22h 51m 09s.xml">
+      <configuration name="MakeTeamsCliAppTest.shouldPrintWelcomeMessage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MakeTeamsCliAppTest_shouldPrintWelcomeMessage - 2018.12.03 at 22h 51m 19s.xml">
+      <configuration name="MakeTeamsCliAppTest.shouldPrintWelcomeMessage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MakeTeamsCliAppTest_shouldPrintWelcomeMessage - 2018.12.03 at 22h 51m 45s.xml">
+      <configuration name="MakeTeamsCliAppTest.shouldPrintWelcomeMessage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MakeTeamsCliAppTest_shouldPrintWelcomeMessage - 2018.12.03 at 22h 52m 06s.xml">
+      <configuration name="MakeTeamsCliAppTest.shouldPrintWelcomeMessage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MakeTeamsCliAppTest_shouldPrintWelcomeMessage - 2018.12.03 at 22h 52m 27s.xml">
+      <configuration name="MakeTeamsCliAppTest.shouldPrintWelcomeMessage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MakeTeamsCliAppTest_shouldPrintWelcomeMessage - 2018.12.03 at 22h 52m 37s.xml">
+      <configuration name="MakeTeamsCliAppTest.shouldPrintWelcomeMessage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MakeTeamsCliAppTest_shouldPrintWelcomeMessage - 2018.12.03 at 22h 52m 55s.xml">
+      <configuration name="MakeTeamsCliAppTest.shouldPrintWelcomeMessage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MakeTeamsCliAppTest_shouldPrintWelcomeMessage - 2018.12.03 at 22h 56m 28s.xml">
+      <configuration name="MakeTeamsCliAppTest.shouldPrintWelcomeMessage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TeamsTest_shouldReturnEmptyListOfNamesIfNoTeamsExist - 2018.12.04 at 23h 50m 43s.xml">
+      <configuration name="TeamsTest.shouldReturnEmptyListOfNamesIfNoTeamsExist" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TeamsTest_shouldReturnEmptyListOfNamesIfNoTeamsExist - 2018.12.04 at 23h 50m 56s.xml">
+      <configuration name="TeamsTest.shouldReturnEmptyListOfNamesIfNoTeamsExist" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1680" height="1023" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32964602" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39048672" sideWeight="0.50238097" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32964602" sideWeight="0.50238097" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39048672" sideWeight="0.49761903" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32964602" sideWeight="0.49761903" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39159292" sideWeight="0.4952381" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Dynamic Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -648,7 +926,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -664,11 +941,222 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Fix mockito-all usage" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix mockito-all usage" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2592">
+          <caret line="144" column="43" lean-forward="false" selection-start-line="144" selection-start-column="43" selection-end-line="144" selection-end-column="43" />
+          <folding>
+            <marker date="1543960554436" expanded="true" signature="97976:98016" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="97976:98033" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="97976:98051" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="97976:98064" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="97976:98079" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="98114:100290" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="98127:100275" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="98181:98476" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="98200:98461" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="98263:98441" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="98303:98407" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="98324:98385" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="98526:98853" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="98545:98838" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="98640:98818" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="98680:98784" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="98701:98762" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="98904:99169" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="98923:99154" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="98956:99134" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="98996:99100" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="99017:99078" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="99212:99518" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="99231:99503" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="99305:99483" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="99345:99449" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="99366:99427" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="99569:99882" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="99588:99867" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="99669:99847" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="99709:99813" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="99730:99791" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="99934:100261" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="99953:100246" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="100048:100226" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="100088:100192" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="100109:100170" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="22" lean-forward="false" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/maketeams/MakeTeamsCliApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="33" lean-forward="false" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/Assert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16578">
+          <caret line="921" column="27" lean-forward="false" selection-start-line="921" selection-start-column="27" selection-end-line="921" selection-end-column="27" />
+          <folding>
+            <element signature="e#35031#35032#0" expanded="true" />
+            <element signature="e#35078#35079#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-all/c0k4lbl8pjtnoeqme5ekch4re/gradle-3.5-rc-2/src/core/org/gradle/api/artifacts/dsl/RepositoryHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2754">
+          <caret line="174" column="28" lean-forward="false" selection-start-line="174" selection-start-column="28" selection-end-line="174" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradlew.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/maketeams/MakeTeamsCliAppTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="24" column="37" lean-forward="true" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-all/c0k4lbl8pjtnoeqme5ekch4re/gradle-3.5-rc-2/src/core/org/gradle/api/artifacts/dsl/RepositoryHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3132">
+          <caret line="174" column="28" lean-forward="false" selection-start-line="174" selection-start-column="28" selection-end-line="174" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradlew.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="32" column="21" lean-forward="true" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+          <folding>
+            <marker date="1543960554436" expanded="true" signature="97976:98016" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="97976:98033" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="97976:98051" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="97976:98064" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="97976:98079" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="98114:100290" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="98127:100275" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="98181:98476" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="98200:98461" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="98263:98441" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="98303:98407" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="98324:98385" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="98526:98853" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="98545:98838" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="98640:98818" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="98680:98784" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="98701:98762" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="98904:99169" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="98923:99154" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="98956:99134" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="98996:99100" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="99017:99078" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="99212:99518" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="99231:99503" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="99305:99483" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="99345:99449" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="99366:99427" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="99569:99882" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="99588:99867" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="99669:99847" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="99709:99813" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="99730:99791" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="99934:100261" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="99953:100246" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="100048:100226" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="100088:100192" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="100109:100170" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
@@ -705,7 +1193,45 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="16" column="52" lean-forward="true" selection-start-line="16" selection-start-column="52" selection-end-line="16" selection-end-column="52" />
-          <folding />
+          <folding>
+            <marker date="1543960554436" expanded="true" signature="97976:98016" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="97976:98033" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="97976:98051" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="97976:98064" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="97976:98079" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="98114:100290" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="98127:100275" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="98181:98476" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="98200:98461" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="98263:98441" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="98303:98407" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="98324:98385" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="98526:98853" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="98545:98838" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="98640:98818" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="98680:98784" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="98701:98762" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="98904:99169" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="98923:99154" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="98956:99134" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="98996:99100" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="99017:99078" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="99212:99518" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="99231:99503" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="99305:99483" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="99345:99449" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="99366:99427" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="99569:99882" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="99588:99867" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="99669:99847" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="99709:99813" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="99730:99791" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="99934:100261" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="99953:100246" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="100048:100226" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="100088:100192" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="100109:100170" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -757,35 +1283,130 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/settings.gradle">
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/Assert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15930">
+          <caret line="921" column="27" lean-forward="false" selection-start-line="921" selection-start-column="27" selection-end-line="921" selection-end-column="27" />
+          <folding>
+            <element signature="e#35031#35032#0" expanded="true" />
+            <element signature="e#35078#35079#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        <state relative-caret-position="288">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/maketeams/MakeTeamsCliApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="38" lean-forward="true" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/maketeams/MakeTeamsCliAppTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="23" column="26" lean-forward="false" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="29" column="67" lean-forward="true" selection-start-line="29" selection-start-column="67" selection-end-line="29" selection-end-column="67" />
+        <state relative-caret-position="0">
+          <caret line="143" column="43" lean-forward="false" selection-start-line="143" selection-start-column="43" selection-end-line="143" selection-end-column="43" />
+          <folding>
+            <marker date="1543960554436" expanded="true" signature="97976:98016" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="97976:98033" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="97976:98051" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="97976:98064" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="97976:98079" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="98114:100290" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="98127:100275" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="98181:98476" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="98200:98461" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="98263:98441" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="98303:98407" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="98324:98385" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="98526:98853" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="98545:98838" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="98640:98818" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="98680:98784" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="98701:98762" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="98904:99169" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="98923:99154" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="98956:99134" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="98996:99100" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="99017:99078" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="99212:99518" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="99231:99503" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="99305:99483" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="99345:99449" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="99366:99427" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="99569:99882" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="99588:99867" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="99669:99847" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="99709:99813" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="99730:99791" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="99934:100261" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="99953:100246" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="100048:100226" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="100088:100192" ph="..." />
+            <marker date="1543960554436" expanded="true" signature="100109:100170" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="22" lean-forward="false" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/maketeams/Teams.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="144">
+          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#149#150#0" expanded="true" />
+            <element signature="e#195#196#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/maketeams/TeamsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="15" lean-forward="true" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
