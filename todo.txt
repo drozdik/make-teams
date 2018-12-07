@@ -2,3 +2,4 @@ create team with alphanumeric name
 list teams
 delete team
 command line interface
+team name restrictions: length, alphanumeric,

@@ -15,7 +15,10 @@ public class Teams {
         return teams.stream().map(team -> team.getName()).collect(toList());
     }
 
-    public void addTeam(Team team) {
+    public void addTeam(Team team) throws TeamNameAlreadyExistsException {
+        if(teams.stream().anyMatch(existing -> existing.getName().equals(team.getName()))){
+            throw new TeamNameAlreadyExistsException();
+        }
         teams.add(team);
     }
 

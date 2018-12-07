@@ -1,7 +1,9 @@
 package maketeams;
 
 import org.hamcrest.Matchers;
+import org.junit.Rule;
 import org.junit.Test;
+import org.junit.rules.ExpectedException;
 
 import java.util.Collection;
 
@@ -50,5 +52,21 @@ public class TeamsTest {
         // then
         assertThat(teamNames, not(hasItem("teamA")));
         assertThat(teamNames, hasItem("teamB"));
+    }
+
+    @Rule
+    public ExpectedException expectedException = ExpectedException.none();
+
+    @Test
+    public void shouldThrowIfTeamWithSameNameExists() throws Exception {
+        // given
+        Teams teams = new Teams();
+        teams.addTeam(new Team("teamA"));
+
+        // expect
+        expectedException.expect(TeamNameAlreadyExistsException.class);
+
+        // when
+        teams.addTeam(new Team("teamA"));
     }
 }
