@@ -3,3 +3,16 @@ list teams
 delete team
 command line interface
 team name restrictions: length, alphanumeric,
+storage
+concurent adding/removing
+web interface
+sending messages between members
+voting for joining
+status of member pending
+sending request for joing
+approval
+status of member
+team lead
+members
+login
+sharing task, information
