@@ -1,0 +1,7 @@
+As a participant I want to add my self to existing team
+to be listed as a team member share all functionality for this team members
+
+As an initiator I want to create new 'room' for participants to then provide this room
+for paticipants to them be divided between teams
+
+As an initiator I want to configure limits for teams and room for teams are created as i expect them
