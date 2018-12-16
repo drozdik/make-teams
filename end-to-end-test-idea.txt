@@ -1,0 +1,5 @@
+it will be web application
+and user input should be stored, so with some kind of persistence/ permanent storage
+and in case of application failure would like to sore data not only time application is off, but regularly
+
+so the first end to end test would be showing simple html with database table names
